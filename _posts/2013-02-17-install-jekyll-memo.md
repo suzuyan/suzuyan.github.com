@@ -2,7 +2,7 @@
 layout: post
 title: "install jekyll memo"
 description: "Make github page by jekyll memo."
-category: github ruby
+category: github
 tags: jekyll
 ---
 {% include JB/setup %}
