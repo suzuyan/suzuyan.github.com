@@ -9,7 +9,7 @@ tags: jekyll
 
 ## github上にリポジトリを作成する
 
-[<img src="http://blog.szyn.jp/wp-content/uploads/2013/02/b6af95929ed2ee94e306e44e0c70b539.png" alt="github page 01" class="aligncenter size-medium wp-image-80" />][1]
+[<img src="/assets/jekyll_install_memo01.png" alt="github page 01" class="aligncenter size-medium wp-image-80" />][1]
 
 ＊github pageを利用するには**アカウント名.github.com**でリポジトリを作る
 
