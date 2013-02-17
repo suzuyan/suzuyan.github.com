@@ -9,7 +9,7 @@ tags: jekyll
 
 ## github上にリポジトリを作成する
 
-[<img src="/assets/jekyll_install_memo01.png" alt="github page 01" class="aligncenter size-medium wp-image-80" />][1]
+[<img src="/assets/img/jekyll_install_memo01.png" alt="github page 01" class="aligncenter size-medium wp-image-80" />][1]
 
 ＊github pageを利用するには**アカウント名.github.com**でリポジトリを作る
 
@@ -21,7 +21,8 @@ gem install jekyll --user-install
 
 ## jekyll bootstrapのインストール
 
-jekyll bootstrapなるものがあり、サクサクっと上げるにはチョー便利 http://jekyllbootstrap.com/
+jekyll bootstrapなるものがあり、サクサクっと上げるにはチョー便利<br>
+http://jekyllbootstrap.com/
 
 <pre>git clone https://github.com/plusjade/jekyll-bootstrap.git USERNAME.github.com
 cd USERNAME.github.com
@@ -61,6 +62,7 @@ rake post title="ページタイトル"
 # _post以下に%Y-%m-%d-ページタイトル.md ファイルができているのでmarkdownでガシガシ書いていく
 </pre>
 
-こことか見ながら進めると色々捗る http://jekyllbootstrap.com/usage/jekyll-quick-start.html
+こことか見ながら進めると色々捗る<br>
+http://jekyllbootstrap.com/usage/jekyll-quick-start.html
 
- [1]: http://blog.szyn.jp/wp-content/uploads/2013/02/b6af95929ed2ee94e306e44e0c70b539.png
+ [1]: /assets/img/jekyll_install_memo01.png
