@@ -10,7 +10,7 @@ server: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : "SUZUYAN Wiki" 
+title : "すずやん::Wiki" 
 tagline: tech linux php ruby python perl javascript java
 author :
   name : Shuhei Suzuki
